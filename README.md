@@ -22,6 +22,6 @@ wątek opisujący zagadnienia technicze przy projekcie pilota na grupie Nightsco
 https://www.facebook.com/groups/NightscoutPoland/permalink/1563178353790345/
 
 Programowanie pilota:
-najpierw wgrać firmware opisany jako MED-LINK v4 first.s19
+najpierw wgrać firmware opisany jako Med-Link v4 long BT config.s19
 który wykona pełną konfigurację modułu bluetooth w pilocie, 
-a następnie zrestartować pilot i wgrać plik MED-LINK v4 second.s19
+a następnie zrestartować pilot i wgrać plik Med-Link v4 29_07_20 last release.s19
