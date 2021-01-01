@@ -15,7 +15,7 @@ https://github.com/sarunia/Med-Link-v5
 
 aplikacja „Med-Link User” do współpracy z pilotem:
 
-https://github.com/sarunia/Med-Link-User/releases
+https://github.com/sarunia/Med-Link-User-PL/releases
 
 grupa na facebooku dla użytkowników i zainteresowanych pilotem:
 
