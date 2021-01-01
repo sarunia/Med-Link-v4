@@ -7,11 +7,15 @@ http://nightscout.pl/medtronic/minimed-serii-5xx-i-7xx/minimed-veo/med-link-dla-
 
 projekt pilota Med-Link v4 z wyświetlaczem:
 
-https://github.com/sarunia/MED-LINK
+https://github.com/sarunia/Med-Link-v4
 
-aplikacja „MedLinkUI” do współpracy z pilotem:
+projekt pilota Med-Link v5 bez wyświetlacza, ostatnia zminiaturyzowana wersja:
 
-https://github.com/cino893/med-link-ui
+https://github.com/sarunia/Med-Link-v5
+
+aplikacja „Med-Link User” do współpracy z pilotem:
+
+https://github.com/sarunia/Med-Link-User/releases
 
 grupa na facebooku dla użytkowników i zainteresowanych pilotem:
 
